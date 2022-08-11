@@ -1,6 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
+    box-sizing: border-box;
 }
 
 body{
@@ -9,15 +10,10 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-}
-
-div{
-    margin: 20px;
-    display: flex;
-    color: white;
     background-color: black;
 }
 
-.img{
+div{
     display: flex;
+    color: white;
 }
