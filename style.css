@@ -18,3 +18,8 @@ div{
     color: white;
     margin: 20px;
 }
+
+.box{
+    color: orange;
+    background-color: blue;
+}
