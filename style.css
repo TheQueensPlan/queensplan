@@ -15,12 +15,8 @@ body{
 }
 
 div{
+    font-size: 35px;
     display: flex;
     color: white;
     margin: 20px;
-}
-
-#box{
-    color: orange;
-    background-color: blue;
 }
